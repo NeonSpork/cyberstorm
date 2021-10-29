@@ -1,6 +1,7 @@
 {
     "name": "cyberstorm",
     "publisher": "neonSpork",
+    "repository": "https://github.com/NeonSpork/cyberstorm",
     "displayName": "cyberStorm",
     "description": "Cyberpunk neon dark and stormy theme",
     "version": "0.0.1",
