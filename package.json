@@ -1,0 +1,21 @@
+{
+    "name": "cyberstorm",
+    "displayName": "cyberStorm",
+    "description": "Cyberpunk neon dark and stormy theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "cyberStorm",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cyberStorm-color-theme.json"
+            }
+        ]
+    }
+}
