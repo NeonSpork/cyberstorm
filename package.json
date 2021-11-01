@@ -1,10 +1,11 @@
 {
     "name": "cyberstorm",
     "publisher": "neonSpork",
-    "repository": "https://github.com/NeonSpork/cyberstorm",
     "displayName": "cyberStorm",
+    "repository": "https://github.com/NeonSpork/cyberstorm",
+    "icon": "https://github.com/NeonSpork/cyberstorm/blob/stable/images/cyberStorm_logo.png",
     "description": "Cyberpunk neon dark and stormy theme",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.61.0"
     },
