@@ -4,6 +4,13 @@ All notable changes to the "cyberstorm" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [v0.1]
+## [v0.0.1]
 
 - Initial release
+
+## [v0.0.2]
+
+- Moved image to imgur
+- Minimal change to readme text
+
+## [v.0.0.3]
