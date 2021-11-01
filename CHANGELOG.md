@@ -14,3 +14,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Minimal change to readme text
 
 ## [v.0.0.3]
+
+- Added logo
+
+## [v.0.0.4]
+
+- Resize logo, minor rework of readme
