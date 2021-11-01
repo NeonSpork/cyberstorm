@@ -21,6 +21,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Resize logo, minor rework of readme
 
-## [v.0.1]
+## [v.0.1.0]
 
 - Logo rework
