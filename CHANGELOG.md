@@ -20,3 +20,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [v.0.0.4]
 
 - Resize logo, minor rework of readme
+
+## [v.0.1]
+
+- Logo rework
