@@ -24,3 +24,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [v.0.1.0]
 
 - Logo rework
+
+## [v.0.1.1]
+
+- Add keywords

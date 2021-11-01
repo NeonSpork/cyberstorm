@@ -1,24 +1,32 @@
 {
-    "name": "cyberstorm",
-    "publisher": "neonSpork",
-    "displayName": "cyberStorm",
-    "repository": "https://github.com/NeonSpork/cyberstorm",
-    "icon": "images/cyberStorm_logo.png",
-    "description": "Cyberpunk neon dark and stormy theme",
-    "version": "0.1.0",
-    "engines": {
-        "vscode": "^1.61.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "cyberStorm",
-                "uiTheme": "vs-dark",
-                "path": "./themes/cyberStorm-color-theme.json"
-            }
-        ]
-    }
+  "name": "cyberstorm",
+  "publisher": "neonSpork",
+  "displayName": "cyberStorm",
+  "repository": "https://github.com/NeonSpork/cyberstorm",
+  "icon": "images/cyberStorm_logo.png",
+  "description": "Cyberpunk neon dark and stormy theme",
+  "version": "0.1.1",
+  "engines": {
+    "vscode": "^1.61.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cyberStorm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberStorm-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "cyber",
+    "punk",
+    "cyberpunk",
+    "neon",
+    "retrowave",
+    "theme"
+  ]
 }
